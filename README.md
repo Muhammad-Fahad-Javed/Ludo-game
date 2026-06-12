@@ -89,15 +89,7 @@ oop-ludo-game/
 7. First player to finish wins.
 
 
-## 📸 Screenshots OR video:
-Add project screenshots inside the `screenshots` folder and video.
-
-Example:
-screenshots/
-├── home-screen.png
-├── gameplay.png
-└── winner-screen.png
-```
+## 📸 Screenshots OR video:https://www.linkedin.com/posts/muhammad-fahad-javed_oop-programming-cplusplus-activity-7458921342730612736-LQl_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGMVzugBOl14fgXQwPCgVNBPLvYaU51RMQ8
 
 
 ## 📖 Learning Outcomes
